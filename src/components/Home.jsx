@@ -37,7 +37,7 @@ export default function Home() {
 
           <div>
             <Link
-              to="works"
+              to="about"
               smooth
               duration={500}
               className="flex animate-pulse items-center w-fit px-6 py-3 bg-gradient-to-r from-white via-green-500 to-green-900 text-white text-base sm:text-lg font-bold rounded-md shadow-lg hover:scale-105 transition-transform duration-300 cursor-pointer"
