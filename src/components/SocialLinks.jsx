@@ -2,7 +2,7 @@ import React from "react";
 import { FaGithubSquare, FaLinkedin, FaPersonBooth } from "react-icons/fa";
 import { MdContactMail } from "react-icons/md";
 import { AiOutlineWhatsApp } from "react-icons/ai";
-import { Link } from "react-scroll";
+
 
 export default function SocialLinks() {
   //pour les quatitre lien gauche

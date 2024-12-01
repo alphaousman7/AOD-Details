@@ -10,7 +10,7 @@ import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import images from "../assets/portfolio/images.jpg";
 import { GoDeviceCameraVideo } from "react-icons/go";
 import { RiCodeBoxFill } from "react-icons/ri";
-import { GiAnimalHide, GiPianist } from "react-icons/gi";
+import {  GiPianist } from "react-icons/gi";
 import { Link } from "react-scroll";
 
 export default function Portfolio() {
