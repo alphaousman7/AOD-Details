@@ -13,9 +13,8 @@ export default function Home() {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         {/* Section Texte */}
         <div className="flex flex-col justify-center h-full md:w-1/2 space-y-6 px-4">
-          <Animation2 />
-
-          <p className="py-4 text-base  sm:text-lg md:text-2xl   font-signature text-blue-400 leading-relaxed font-poppins">
+         
+          <p className="py-4 text-base mt-28 sm:text-lg md:text-2xl   font-signature text-blue-400 leading-relaxed font-poppins">
             Je m'appelle Diallo Alpha Ousmane, un passionné de technologie.
             originaire de Guinée conakry.
             <br />
@@ -59,7 +58,8 @@ export default function Home() {
             className="rounded-2xl w-full max-w-xs md:max-w-md shadow-lg transform hover:scale-105 transition-transform duration-300"
           />
         </div>
-      </div>
+       
+      </div> <Animation2 />
     </div>
   );
 }
