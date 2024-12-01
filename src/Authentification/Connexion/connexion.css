@@ -1,0 +1,38 @@
+
+label{
+    color: rgb(2, 97, 30);
+}
+.centrondanscss{
+    margin: 0 auto;
+    width: 550px;
+    height: 320px;
+    border: 40px solid rgb(3, 87, 28);
+
+    justify-content: center;
+    display: flex;
+
+    border: 2px solid rgb(0, 88, 44);
+    border-radius: 10px;
+    margin-top: 100px;
+
+    background-color: rgb(240, 240, 240);
+
+}
+.titre{
+    margin-top: 16px; 
+    margin-bottom: 12px;
+    border-radius: 10px;
+    color: rgb(10, 112, 7);
+}
+input{
+    
+    height: 50px;
+    background-color: hwb(120 1% 69%);
+}
+
+.desc{
+    margin-top: 16px; 
+    margin-bottom: 16px;
+ 
+       
+}
