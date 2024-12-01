@@ -106,7 +106,7 @@ export default function Animation2() {
         </div>
         <div
           id="box4"
-          className="w-60 h-100 bg-yellow-500 text-white flex items-center justify-center rounded-lg shadow-lg hover:scale-105 transition-transform duration-300"
+          className="w-60 h-100 bg-yellow-400 text-white flex items-center justify-center rounded-lg shadow-lg hover:scale-105 transition-transform duration-300"
         >
           <img
             src={NOUSSOUM}

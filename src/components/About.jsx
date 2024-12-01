@@ -32,8 +32,8 @@ const About = () => {
           {/* Text Section */}
           <div className="space-y-8 md:w-2/3">
             <p className="bg-gradient-to-b mt-8 from-gray-900 via-green-900 to-black font-signature text-white text-lg sm:text-2xl  leading-relaxed bg-white bg-opacity-80 rounded-lg shadow-lg p-6 transform transition-all duration-300 hover:scale-105">
-              Après avoir obtenu mon bac +3 en licence en miage à l'université
-              de labé (Guinée Conakry) de 2017 à 2020.
+              Après avoir obtenu mon diplome de bac +3 en licence miage à l'université
+              de labé (Guinée Conakry) de 2017 à 2020 puis 
               En 2022 j'ai continué ma formation en obtenant une licence professionnelle en développement Fullstack.
               Actuellement , je suis en 5e année informatique-Réseaux-Multimédia,
               où je me perfectionne dans des domaines tels que le développement
